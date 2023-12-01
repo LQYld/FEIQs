@@ -29,7 +29,17 @@ export default defineConfig({
       {
         text: 'Css',
         items: [
-          {text: '高频前端面试题汇总之CSS篇',link: '/css/0001'}
+          {text: '高频前端面试题汇总之CSS篇',link: '/css/0001'},
+          {
+            text: '【vue3js.cn】Css 系列',
+            link: '/css/0002',
+          }
+        ]
+      },
+      {
+        text: 'Js',
+        items: [
+          {text: '【vue3js.cn】Js 系列',link: '/js/0001.md'}
         ]
       },
       {
