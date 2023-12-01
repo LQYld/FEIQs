@@ -17,7 +17,7 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Question Bank', link: '/html/0001' },
-      { text: 'v0.0.1-beta.1', link: '/html/0001' }
+      { text: 'v0.0.1-beta.1', link: 'https://github.com/LQYld/FEIQs/releases' }
     ],
     sidebar: [
       {
