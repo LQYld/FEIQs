@@ -10,7 +10,7 @@ hero:
   actions:
     - theme: brand
       text: Start improving
-      link: /vue/0001
+      link: /html/0001
     - theme: alt
       text: View on Github
       link: https://github.com/LQYld/FEIQs
