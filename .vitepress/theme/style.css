@@ -22,3 +22,19 @@
      --vp-button-alt-hover-bg: #e4e4e9;
      --vp-c-brand: var(--color-vp-button);
 }
+
+ .VPImage {
+      animation: float 3s ease-in-out infinite;
+ }
+
+ @keyframes float {
+      0% {
+           transform: translate(-50%, -50%);
+      }
+      50% {
+           transform: translate(-50%, calc(-50% - 20px));
+      }
+      100% {
+           transform: translate(-50%, -50%);
+      }
+ }
