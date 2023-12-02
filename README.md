@@ -15,7 +15,7 @@ Helping job seekers prepare for FE interviews
   </a>
 <p>
 <p align="center">
-<a href="https://chat.vitest.dev"><b>Start improving!</b></a>
+<a href="https://feiqs.fe-ecosphere.com/"><b>Start improving!</b></a>
 </p>
 
 <p align="center">
