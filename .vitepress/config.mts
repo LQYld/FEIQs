@@ -43,11 +43,29 @@ export default defineConfig({
         ]
       },
       {
+        text: 'Ts',
+        items: [
+          {text: '【vue3js.cn】Ts 系列',link: '/ts/0001.md'}
+        ]
+      },
+      {
         text: 'Vue',
         items: [
           { text: '2.6W字！Vue面试题源码级详解', link: '/vue/0001' },
           { text: '【vue3js.cn】Vue2 系列', link: '/vue/0003' },
           { text: '【vue3js.cn】Vue3 系列', link: '/vue/0004' }
+        ]
+      },
+      {
+        text: 'Webpack',
+        items: [
+          { text: '【vue3js.cn】Webpack 系列', link: '/webpack/0001' },
+        ]
+      },
+      {
+        text: 'Design Pattern',
+        items: [
+          {text: '【vue3js.cn】设计模式/ 系列', link: '/design-pattern/0001'}
         ]
       },
     ],
