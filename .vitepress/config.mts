@@ -45,7 +45,7 @@ export default defineConfig({
       {
         text: 'Vue',
         items: [
-          { text: '2.6W字！Vue面试题源码级详解', link: '/vue/0001' },/
+          { text: '2.6W字！Vue面试题源码级详解', link: '/vue/0001' },
           { text: '【vue3js.cn】Vue2 系列', link: '/vue/0003' },
           { text: '【vue3js.cn】Vue3 系列', link: '/vue/0004' }
         ]
