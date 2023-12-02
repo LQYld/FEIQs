@@ -23,7 +23,7 @@
      --vp-c-brand: var(--color-vp-button);
 }
 
- .VPImage {
+ .image-src {
       animation: float 3s ease-in-out infinite;
  }
 
