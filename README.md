@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./public/job-interview-logo.png" height="150">
+<img src="./public/job-interview-logo.png" height="150" />
 </p>
 <h1 align="center">
 FEIQs
@@ -19,5 +19,5 @@ Helping job seekers prepare for FE interviews
 </p>
 
 <p align="center">
-    <img src="./public/demo.png" height="350">
+    <img src="./public/demo.png" height="350" />
 </p>
