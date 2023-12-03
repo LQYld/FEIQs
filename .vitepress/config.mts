@@ -63,6 +63,12 @@ export default defineConfig({
         ]
       },
       {
+        text: 'Http',
+        items: [
+          { text: '【vue3js.cn】Http 系列', link: '/http/0001' },
+        ]
+      },
+      {
         text: 'Design Pattern',
         items: [
           {text: '【vue3js.cn】设计模式/ 系列', link: '/design-pattern/0001'}
