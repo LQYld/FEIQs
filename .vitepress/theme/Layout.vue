@@ -12,17 +12,11 @@ const enableTransitions = () =>
     'startViewTransition' in document &&
     window.matchMedia('(prefers-reduced-motion: no-preference)').matches
 
-provide('toggle-appearance', async () => {
+provide('toggle-appearance', async ({ clientX: x, clientY: y }: MouseEvent) => {
   if (!enableTransitions()) {
     isDark.value = !isDark.value
     return
   }
-
-  const DIY_IMAGE_CONTAINER_DOM = document.getElementById('DIY_IMAGE_CONTAINER');
-
-  const rect = DIY_IMAGE_CONTAINER_DOM.getBoundingClientRect();
-  const x = rect.left + rect.width/2;
-  const y = rect.top + rect.height/2;
 
   const clipPath = [
     `circle(0px at ${x}px ${y}px)`,
